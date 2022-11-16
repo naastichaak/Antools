@@ -1,0 +1,83 @@
+.header{
+    width: 1215px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.logo-wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.img-wrapper{
+    margin-right: 22px;
+}
+
+.img{
+    height: 21px;
+    width: 20px;
+}
+
+.logo{
+    font-family: var(--poppins);
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.nav-list{
+    width: 431px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nav-list-item{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.nav-list-select{
+    background-color: var(--bgc-colour);
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    border: 0px;
+}
+
+.button-wrapper{
+    display: flex;
+}
+
+.login{
+    margin-right: 40px;
+    font-family: var(--poppins);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.78);
+    background-color: var(--bgc-colour);
+    border: 0px;
+}
+
+.sign-up{
+    font-family: var(--poppins);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FDF5FF;
+    width: 120px;
+    height: 50px;
+    background-color: var(--orange-colour);
+    border-radius: 8px;
+    border: 0px;
+}

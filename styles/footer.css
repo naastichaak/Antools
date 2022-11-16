@@ -1,0 +1,156 @@
+.footer-wrapper{
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 70px;
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.about-antools{
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 155px;
+}
+
+.logo-wrapper-footer{
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.logo-orange{
+    margin-right: 12px;
+}
+
+.logo-link-footer{
+    font-family: var(--poppins);
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.copyright{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 20px;
+}
+
+.copyright-description{
+    font-family: var(--poppins);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.79;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.contact-us-wrapper{
+    width: 197px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 115px;
+}
+
+.categories-wrapper{
+    width: 112px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 115px;
+}
+
+.company-info-wrapper{
+    width: 144px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-us-title, 
+.categories-title,
+.company-info-title{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 20px;
+}
+
+.address{
+    display: flex;
+    flex-direction: column;
+}
+
+.tel{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    padding-bottom: 10px;
+    font-style: normal;
+}
+
+.place{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    font-style: normal;
+    padding-bottom: 10px;
+}
+
+.email{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    font-style: normal;
+}
+
+.design{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    margin-bottom: 10px;
+}
+
+.development{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.about-us{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    margin-bottom: 10px;
+}
+
+.our-ortners{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+    margin-bottom: 10px;
+}
+
+.blog{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.55);
+}

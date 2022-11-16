@@ -1,0 +1,39 @@
+.brand{
+    width: 1224px;
+    height: 253px;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: rgba(44, 53, 61, 0.2);
+    backdrop-filter: blur(25px);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brand-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.brand-title{
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 55px;
+}
+
+.brands-list{
+    display: flex;
+}
+
+.brands{
+    margin-right: 107px;
+}
+
+.brands:last-child{
+    margin-right: 0px;
+}

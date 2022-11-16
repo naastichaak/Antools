@@ -1,0 +1,30 @@
+.carosel{
+    width: 1224px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.carosel-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.man{
+    margin-right: 60px;
+}
+
+.quotation{
+    position: relative;
+    bottom: 93px;
+    left: 52px;
+}
+
+.info{
+    width: 393px;
+    font-family: var(--roboto);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 2.14;
+    color: rgba(255, 255, 255, 0.78);
+}

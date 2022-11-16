@@ -1,0 +1,11 @@
+:root{
+    /* fonts */
+    --poppins: 'Poppins', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+
+
+    /* colours */
+    --orange-colour: #FF6E30;
+    --white-colour: #FFFF;
+    --bgc-colour: #1E252B;
+}
